@@ -1547,12 +1547,13 @@
 	.key-point-container {
 		flex-direction: column;
 		text-align: center;
+		width: 75%;
 	}
 
 	.key-point-container p {
 		/* font: normal normal normal 18px; */
+		margin: 0 auto;
 	}
-
 	
 
 	.key-point-image {
@@ -1765,6 +1766,11 @@
 
 	.key-point-container {
 		flex-direction: row;
+	}
+
+	.key-point-container p{
+		margin: 0;
+		text-align: left!important;
 	}
 
 	.key-point-image {
