@@ -35,9 +35,6 @@
 
 /********************new-tabs**************/
 
-	.dev {
-		padding: 0px 0px 0px 0px;
-	}
 	.headline-h22 {
 		margin: 45px 0 0px 0px;}
 		
@@ -244,10 +241,7 @@
 	width: 100% !important;
 	}
 
-	.middle_title {
-
-	margin: 80px 0px 15px 0px;
-	}
+	
 
 	p {
 		font-size: 14px;
@@ -312,9 +306,8 @@
 	}
 
 	.middle_title {
-
 		font-size: 40px;
-
+		margin: 120px 0px 15px 0px;
 	}
 
 	.bg-dark {
@@ -1023,9 +1016,7 @@
 	}
 
 	.middle_title {
-
 		font-size: 50px;
-
 	}
 
 	.sec_box {
@@ -1744,6 +1735,13 @@
 		letter-spacing: 0px;
 		position: relative;
 	}
+
+	.dev {
+		padding: 120px 0px 0px 0px;
+	}
+	.img-full-width.sec-image {
+		margin: 0px 0px 120px 0px;
+	}
 }
 
 @media (orientation: portrait) {
@@ -1985,4 +1983,8 @@
 		letter-spacing: 0px;
 		position: relative;
 	}
+
+	.dev {
+		padding: 70px 0px 0px 0px;
+	  }
 }

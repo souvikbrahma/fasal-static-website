@@ -767,7 +767,7 @@ a.nav-link.request-demo-button {
 
 .middle_title {
 
-  margin: 80px 0px 45px 0px;
+  margin: 120px 0px 45px 0px;
 
   color: #212121;
 
@@ -778,12 +778,6 @@ a.nav-link.request-demo-button {
   font-weight: 400;
 
   letter-spacing: 0.1px;
-
-}
-
-.dev {
-
-  padding: 70px 0px 0px 0px;
 
 }
 
