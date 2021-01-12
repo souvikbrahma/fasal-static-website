@@ -1,2 +1,0 @@
-# fasal-static-website
-Demo

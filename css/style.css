@@ -2918,6 +2918,10 @@ a.nav-link:hover {
   height: calc(100vw/1.77);
 }
 
+.tabs-custom {
+  background-color: #F8F8F8;
+}
+
 .tabs-custom .tab-content {
   padding: 40px 25px 0 25px;
 }
