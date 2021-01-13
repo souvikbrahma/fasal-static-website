@@ -1738,7 +1738,9 @@
 	}
 
 	.logo_box {
-		padding: 40px 20px 40px 20px;
+		padding: 45px 45px 45px 45px;
+		margin: 5px;
+		background-color: #fff;
 	}
 }
 
