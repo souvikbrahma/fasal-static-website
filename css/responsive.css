@@ -300,6 +300,12 @@
 
 	}
 
+	.logo_box {
+
+		padding: 25px 20px;
+
+	}
+
 	.logo_title {
 		margin-left: 15px;
 		font-weight: 400;
@@ -1989,6 +1995,6 @@
 	}
 
 	.logo_box {
-		padding: 10px;
+		/* padding: 10px; */
 	}
 }
