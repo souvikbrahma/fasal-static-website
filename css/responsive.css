@@ -434,12 +434,6 @@
 		padding:px 15px;
 	}
 
-	.logo_box {
-
-		padding: 25px 20px;
-
-	}
-
 	.news {
 
 		padding: 0px 0 0;
@@ -1742,6 +1736,10 @@
 	.img-full-width.sec-image {
 		margin: 0px 0px 120px 0px;
 	}
+
+	.logo_box {
+		padding: 40px 20px 40px 20px;
+	}
 }
 
 @media (orientation: portrait) {
@@ -1986,5 +1984,9 @@
 
 	.dev {
 		padding: 70px 0px 0px 0px;
-	  }
+	}
+
+	.logo_box {
+		padding: 10px;
+	}
 }
