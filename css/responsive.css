@@ -1737,9 +1737,9 @@
 		margin: 0px 0px 120px 0px;
 	}
 
-	.logo_box {
+	.logo_box_cust {
 		padding: 45px 45px 45px 45px;
-		margin: 5px;
+		margin: 15px;
 		background-color: #fff;
 	}
 }
